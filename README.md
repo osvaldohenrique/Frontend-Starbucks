@@ -1,2 +1,5 @@
 # Frontend-Starbucks
-Praticando HTML/CSS
+Repositório Front-end - HTML/CSS
+
+# Praticando HTML/CSS.
+# Front-end do site da Starbucks 
